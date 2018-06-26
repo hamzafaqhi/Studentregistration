@@ -1,0 +1,9 @@
+E:\project\Studentregistration\Studentregistration\bin\Debug\Studentregistration.exe.config
+E:\project\Studentregistration\Studentregistration\bin\Debug\Studentregistration.exe
+E:\project\Studentregistration\Studentregistration\bin\Debug\Studentregistration.pdb
+E:\project\Studentregistration\Studentregistration\obj\Debug\Studentregistration.csprojResolveAssemblyReference.cache
+E:\project\Studentregistration\Studentregistration\obj\Debug\Studentregistration.login.resources
+E:\project\Studentregistration\Studentregistration\obj\Debug\Studentregistration.Properties.Resources.resources
+E:\project\Studentregistration\Studentregistration\obj\Debug\Studentregistration.csproj.GenerateResource.Cache
+E:\project\Studentregistration\Studentregistration\obj\Debug\Studentregistration.exe
+E:\project\Studentregistration\Studentregistration\obj\Debug\Studentregistration.pdb
